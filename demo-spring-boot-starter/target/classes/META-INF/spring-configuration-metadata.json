@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "demo",
+      "type": "com.demo.starter.DemoProperties",
+      "sourceType": "com.demo.starter.DemoProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "demo.say-what",
+      "type": "java.lang.String",
+      "sourceType": "com.demo.starter.DemoProperties"
+    },
+    {
+      "name": "demo.to-who",
+      "type": "java.lang.String",
+      "sourceType": "com.demo.starter.DemoProperties"
+    }
+  ],
+  "hints": []
+}
